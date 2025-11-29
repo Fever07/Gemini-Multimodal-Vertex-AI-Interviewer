@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Avatar Interface",
+  "description": "A real-time multimodal avatar interface using Google Gemini Live API and React.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
